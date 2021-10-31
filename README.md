@@ -1,6 +1,6 @@
 # Anonymous Email Forwarding
 
-This is the source code for the AnonAddy browser extension.
+This is the source code for Descendo The Monkei#0624's AnonAddy browser extension.
 
 ## Build
 
